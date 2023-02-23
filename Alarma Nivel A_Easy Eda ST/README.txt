@@ -1,7 +1,7 @@
             
-How to use：
+Modo de empleo：
 
-At editor, open the document via: Top menu - File - Open - EasyEDA... , and select the json file, then open it at the editor, you can save it into a project.
+En el editor, abra el documento a través de: Menú superior-Archivo-Abrir-EasyEDA... , y seleccione el archivo json, luego ábralo en el editor, puede guardarlo en un proyecto.
 
 
 如何使用：
